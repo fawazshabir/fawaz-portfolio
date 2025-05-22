@@ -14,16 +14,19 @@ Beginners can build their first Arduino RC car with NRF24L01 wireless control no
 7:46 The receiver sketch
 10:49 The transmitter sketch
 12:36 The RC car in action
-- [View Project Repository](https://github.com/fawazshabir/arduino-rc-car) *(Coming soon)*
+
+https://www.youtube.com/watch?v=eOqOiWJhFeA
+
+- [View Project Repository](https://github.com/fawazshabir/arduino-rc-car)
 
 ---
 
 ### 🧠 PCB Projects
 A collection of circuit boards I've designed and assembled.
 
-- Designed in EasyEDA / KiCad
+- Designed in EasyEDA
 - Projects include regulators, sensors, audio, and RF
-- [View Project Repository](https://github.com/fawazshabir/pcb-projects) *(Coming soon)*
+- [View Project Repository](https://github.com/fawazshabir/pcb-projects) 
 
 ---
 

@@ -5,10 +5,15 @@ Welcome! I'm Fawaz, an engineering enthusiast focused on embedded systems, PCB d
 ## 🔩 Projects
 
 ### 🚗 Arduino Uno RC Car
-A custom-built RC car using an Arduino Uno and Bluetooth control.
+Beginners can build their first Arduino RC car with NRF24L01 wireless control now! If you have all the parts, you can put this together in 15 minutes and grab the code from our Facebook page.
 
-- Motor control using L298N
-- Android app integration
+0:00 Intro
+0:17 Parts list
+3:50 The Wireless NRF24L01 module
+4:56 The wiring
+7:46 The receiver sketch
+10:49 The transmitter sketch
+12:36 The RC car in action
 - [View Project Repository](https://github.com/fawazshabir/arduino-rc-car) *(Coming soon)*
 
 ---

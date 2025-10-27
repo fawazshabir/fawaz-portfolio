@@ -1,6 +1,6 @@
 # 👨‍🔧 Fawaz's Engineering Portfolio
 
-Welcome! I'm Fawaz, an engineering enthusiast focused on embedded systems, PCB design, and communication systems. This is my portfolio of hands-on hardware and software projects.
+Hi, I'm an engineering enthusiast focused on embedded systems, PCB design, and communication systems. This is my portfolio of hands-on hardware and software projects.
 
 ## 🔩 Projects
 

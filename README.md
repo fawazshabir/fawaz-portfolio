@@ -1,4 +1,4 @@
-# 👨‍🔧 Fawaz's Engineering Portfolio
+# 👨‍🔧 Iris's Engineering Portfolio
 
 Hi, I'm an engineering enthusiast focused on embedded systems, PCB design, and communication systems. This is my portfolio of hands-on hardware and software projects.
 
